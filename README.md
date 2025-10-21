@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hello there 👋
 
 <h1 align="center">Hi 👋, I'm Garo Kalfayan!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from Lebanon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garok01&label=Profile%20views&color=0e75b6&style=flat" alt="garok01" /> </p>
 
@@ -64,6 +64,13 @@
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garok01&show_icons=true&locale=en&layout=compact" alt="garok01" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garok01&show_icons=true&locale=en" alt="garok01" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garok01&" alt="garok01" /></p>
 
 <!--
 **GaroK01/GaroK01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
