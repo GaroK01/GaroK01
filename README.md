@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-<h1 align="center">Hi 👋, I'm Garo Kalfayan!</h1>
+<h1 align="center">Hi 🙋‍♂️, I'm Garo Kalfayan!</h1>
 <h3 align="center">A passionate developer from Lebanon</h3>
 
 <p align="left">
@@ -75,6 +75,10 @@
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+![Metrics](https://raw.githubusercontent.com/garok01/garok01/main/github-metrics.svg)
 
 ---
 
