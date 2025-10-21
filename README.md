@@ -3,20 +3,21 @@
 <h1 align="center">Hi 👋, I'm Garo Kalfayan!</h1>
 <h3 align="center">A passionate developer from Lebanon</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=garok01&label=Profile%20views&color=0e75b6&style=flat" alt="garok01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garok01" alt="garok01" /></a> </p>
-
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **anything :)**
-
-- 📫 How to reach me **garokalfayan31@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=garok01&label=Profile%20views&color=0e75b6&style=flat" alt="garok01" />
 </p>
 
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=garok01" alt="garok01" />
+  </a>
+</p>
+
+- 🌱 I’m currently learning **Python**
+- 💬 Ask me about **anything :)**
+- 📫 How to reach me **garokalfayan31@gmail.com**
+
+---
 
 ### 🧠 Languages & Markup
 
@@ -37,7 +38,8 @@
 
 ### 🛠 Tools & Platforms
 
-**IDEs & Editors**  
+#### 🖥️ IDEs & Editors
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -46,36 +48,49 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Embarcadero](https://img.shields.io/badge/Embarcadero-A6192E?style=for-the-badge&logo=delphi&logoColor=white)
 
-**Version Control & CI**  
+#### 🔧 Version Control & CI
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**APIs & Testing**  
+#### 🧪 APIs & Testing
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-**Databases**  
+#### 🗄️ Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+#### 📦 Package Managers
 
-**Package Managers**  
 ![pip](https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-**Productivity & Design**  
+#### 💼 Productivity & Design
+
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garok01&show_icons=true&locale=en&layout=compact" alt="garok01" /></p>
+### 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garok01&show_icons=true&locale=en" alt="garok01" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garok01&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garok01&" alt="garok01" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=garok01&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garok01&" alt="GitHub Streak" />
+</p>
 
 <!--
 **GaroK01/GaroK01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
