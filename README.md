@@ -1,5 +1,23 @@
 ## Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Garo Kalfayan!</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=garok01&label=Profile%20views&color=0e75b6&style=flat" alt="garok01" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garok01" alt="garok01" /></a> </p>
+
+- 🌱 I’m currently learning **Python**
+
+- 💬 Ask me about **anything :)**
+
+- 📫 How to reach me **garokalfayan31@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
 ### 🧠 Languages & Markup
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
