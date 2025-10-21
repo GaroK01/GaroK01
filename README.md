@@ -78,10 +78,6 @@
 
 ---
 
-![Metrics](https://raw.githubusercontent.com/garok01/garok01/main/github-metrics.svg)
-
----
-
 ### 📊 GitHub Stats
 
 <p>
