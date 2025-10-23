@@ -1,5 +1,5 @@
 ## Hello there 👋
-https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json
+<div class="tenor-gif-embed" data-postid="17542726" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/man-raising-hand-joypixels-raise-your-hand-im-here-present-gif-17542726">Man Raising Hand Joypixels Sticker</a>from <a href="https://tenor.com/search/man+raising+hand-stickers">Man Raising Hand Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1 align="center">Hi 🙋‍♂️, I'm Garo Kalfayan!</h1>
 <h3 align="center">A passionate developer from Lebanon</h3>
 
