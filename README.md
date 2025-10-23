@@ -107,9 +107,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7ff0bc22-7b31-468a-a89f-19c8b5e4e920" >
 </p>
-
-![Code Hacking GIF by Pizza Ninjas](https://github.com/user-attachments/assets/cb6a5e81-1194-4d47-9da0-6421a4fd386a)
-
 <!--
 **GaroK01/GaroK01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
