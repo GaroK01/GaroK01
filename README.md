@@ -1,5 +1,7 @@
 ## Hello there 👋
-![Man raising hand](https://media.tenor.com/[xxxxxxxxxxx](https://tenor.com/view/man-raising-hand-joypixels-raise-your-hand-im-here-present-gif-17542726)/tenor.gif)
+
+
+![Man raising hand](https://media.tenor.com/man-raising-hand-joypixels-raise-your-hand-im-here-present-gif-17542726/tenor.gif)
 
 <h1 align="center">Hi 🙋‍♂️, I'm Garo Kalfayan!</h1>
 <h3 align="center">A passionate developer from Lebanon</h3>
