@@ -1,6 +1,10 @@
 <!--## Hello there 👋-->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/97e86b53-08be-4cb1-b6f8-9b2fd822b2bf" 
+       alt="code GIF" 
+       width="500">
+</p>
 
-![code GIF](https://github.com/user-attachments/assets/97e86b53-08be-4cb1-b6f8-9b2fd822b2bf)
 
 <h1 align="center">Hi 🙋‍♂️, I'm Garo Kalfayan!</h1>
 <h3 align="center">A passionate developer from Lebanon</h3>
