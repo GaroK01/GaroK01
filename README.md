@@ -1,5 +1,5 @@
 ## Hello there 👋
-
+https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json
 <h1 align="center">Hi 🙋‍♂️, I'm Garo Kalfayan!</h1>
 <h3 align="center">A passionate developer from Lebanon</h3>
 
