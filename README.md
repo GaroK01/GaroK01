@@ -1,7 +1,6 @@
-## Hello there 👋
+<!--## Hello there 👋-->
 
-
-![Man raising hand](https://media.tenor.com/man-raising-hand-joypixels-raise-your-hand-im-here-present-gif-17542726/tenor.gif)
+![code GIF](https://github.com/user-attachments/assets/97e86b53-08be-4cb1-b6f8-9b2fd822b2bf)
 
 <h1 align="center">Hi 🙋‍♂️, I'm Garo Kalfayan!</h1>
 <h3 align="center">A passionate developer from Lebanon</h3>
@@ -95,6 +94,7 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garok01&" alt="GitHub Streak" />
 </p>
+![Code Hacking GIF by Pizza Ninjas](https://github.com/user-attachments/assets/7ff0bc22-7b31-468a-a89f-19c8b5e4e920)
 
 <!--
 **GaroK01/GaroK01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
