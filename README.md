@@ -99,6 +99,13 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garok01&" alt="GitHub Streak" />
 </p>
 ![code GIF](https://github.com/user-attachments/assets/7ff0bc22-7b31-468a-a89f-19c8b5e4e920)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a532d74f-cda5-44fb-8aaa-1a3f5de311db" 
+       alt="code GIF" 
+       width="500">
+</p>
+
+
 
 <!--
 **GaroK01/GaroK01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
